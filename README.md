@@ -3,7 +3,7 @@
 <!--
 **oute572/oute572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://vidi.no/fr/developpement-de-logiciel/" alt="être developpeur n'est pas simple">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
