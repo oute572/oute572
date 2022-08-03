@@ -1,5 +1,10 @@
 ### Hi there 👋
 <img src="https://vidi.no/wp-content/uploads/2020/07/utvikler.gif" alt="être developpeur n'est pas simple">
+<p>
+I am Nadjo Outman, I have been a web developer for a few years
+</p>
+
+
 <!--
 **oute572/oute572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
