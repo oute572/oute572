@@ -1,5 +1,5 @@
 
-<img src="https://vidi.no/wp-content/uploads/2020/07/utvikler.gif" alt="être developpeur n'est pas simple">
+<img align="center" src="https://vidi.no/wp-content/uploads/2020/07/utvikler.gif" alt="être developpeur n'est pas simple">
 <h1 align="center">Hi 👋, I'm Nadjo OUTMAN</h1>
 <h3 align="center">A passionate developer from Tchad</h3>
 
